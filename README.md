@@ -1,4 +1,4 @@
-# Welcome to WP GEEKS BOILER THEME 👋 🔭
+# Welcome to WP Geeks Boiler Theme 👋 🔭
 
 My thoughts process of creating this boiler theme template are:
 - How can you integrate WordPress with modern workflow as native as possible?
