@@ -8,8 +8,6 @@ My thoughts process of creating this boiler theme template are:
 
 Here is that I think something that can be a perfect theme. Wordpress theme settings that can work with WordPress natively and you can create a theme or a website only with advanced custom field.
 
-I find a really good blog that explain and I improved the gulpfile and make it also integrate with terser and browsersync.
-
 ## Technologies
 
 - [Tailwind](https://tailwindcss.com/)
