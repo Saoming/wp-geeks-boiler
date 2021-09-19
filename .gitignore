@@ -18,7 +18,7 @@ node_modules
 *.gz
 
 # WordPress
-.dist/
+dist
 
 # intelliJ
 .idea/
