@@ -1,0 +1,35 @@
+{
+  "name": "wp-geeks-boiler",
+  "version": "1.0.0",
+  "themename": "WP Geeks Boiler Theme",
+  "description": "WordPress Boiler Theme Template with Tailwind + Gulp Bundler + Browsersync",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp production --production true"
+  },
+  "author": "Samuel Tirtawidjaja",
+  "authoruri": "https://stcode.me",
+  "homepage": "https://example.com",
+  "textDomain": "a-text-domain",
+  "license": "GPL-2.0",
+  "licenseuri": "http://www.gnu.org/licenses/gpl-2.0.txt",
+  "devDependencies": {
+    "autoprefixer": "^10.3.4",
+    "browser-sync": "^2.27.5",
+    "fs-path": "^0.0.25",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-footer": "^2.0.2",
+    "gulp-header": "^2.0.9",
+    "gulp-notify": "^4.0.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-strip-css-comments": "^2.0.0",
+    "postcss-import": "^14.0.2",
+    "tailwindcss": "^2.2.11"
+  },
+  "dependencies": {
+    "gulp-terser": "^2.0.1"
+  }
+}
